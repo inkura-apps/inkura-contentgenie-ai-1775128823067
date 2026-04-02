@@ -1,0 +1,23 @@
+{
+  "logo_url": null,
+  "palette": {
+    "primary": "#1a1a2e",
+    "secondary": "#0967d2",
+    "accent": "#47a3f3",
+    "background": "#2d3748",
+    "text": "#f1f5f9",
+    "text_muted": "#94a3b8",
+    "surface": "#e2e8f0",
+    "border": "#334155"
+  },
+  "fonts": {
+    "heading": "Inter",
+    "body": "Inter"
+  },
+  "density": {
+    "section_padding": "6rem",
+    "element_gap": "2rem",
+    "border_radius": "1rem",
+    "container_max_width": "1200px"
+  }
+}

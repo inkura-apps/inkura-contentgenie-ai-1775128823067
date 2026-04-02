@@ -1,0 +1,67 @@
+{
+  "app_name": "ContentGenie AI",
+  "pages": [
+    {
+      "id": "page_1",
+      "name": "Home",
+      "path": "/",
+      "children": [
+        {
+          "id": "page_1_1",
+          "name": "Login",
+          "path": "/login",
+          "children": []
+        },
+        {
+          "id": "page_1_2",
+          "name": "Sign Up",
+          "path": "/sign-up",
+          "children": []
+        },
+        {
+          "id": "page_1_3",
+          "name": "How it Works",
+          "path": "/how-it-works",
+          "children": []
+        },
+        {
+          "id": "page_1_4",
+          "name": "Features",
+          "path": "/features",
+          "children": []
+        },
+        {
+          "id": "page_1_5",
+          "name": "Templates Library",
+          "path": "/templates-library",
+          "children": []
+        },
+        {
+          "id": "page_1_6",
+          "name": "Pricing",
+          "path": "/pricing",
+          "children": []
+        },
+        {
+          "id": "page_1_7",
+          "name": "Support",
+          "path": "/support",
+          "children": []
+        },
+        {
+          "id": "page_1_8",
+          "name": "Dashboard",
+          "path": "/dashboard",
+          "children": [
+            {
+              "id": "page_1_8_1",
+              "name": "Content Editor",
+              "path": "/dashboard/content-editor",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

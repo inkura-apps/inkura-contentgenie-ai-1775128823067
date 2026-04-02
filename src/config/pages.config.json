@@ -1,0 +1,181 @@
+{
+  "page_1": [
+    {
+      "type": "hero"
+    },
+    {
+      "type": "card_grid"
+    },
+    {
+      "type": "testimonials"
+    },
+    {
+      "type": "cta"
+    }
+  ],
+  "page_1_1": [
+    {
+      "type": "form"
+    },
+    {
+      "type": "text"
+    }
+  ],
+  "page_1_2": [
+    {
+      "type": "form",
+      "heading": "Create Your Account",
+      "subtext": "Join the AI-Driven Content Creation Platform and start crafting unique, engaging social media content today.",
+      "button_text": "Sign Up Now",
+      "fields": [
+        "First Name",
+        "Last Name",
+        "Email Address",
+        "Password",
+        "Confirm Password"
+      ]
+    }
+  ],
+  "page_1_3": [
+    {
+      "type": "text",
+      "heading": "Start Creating in Three Easy Steps!",
+      "subtext": "Harness the power of AI to generate captivating content effortlessly. Here's how you can get started in no time."
+    },
+    {
+      "type": "list",
+      "button_text": "Learn More",
+      "items": [
+        "Step 1: Sign Up and Set Your Preferences",
+        "Step 2: Select a Template or Theme",
+        "Step 3: Generate and Customize Your Content"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Transform Your Social Media Strategy",
+      "subtext": "Discover how our tool can revolutionize your content creation process, saving you time and boosting engagement."
+    },
+    {
+      "type": "card_grid",
+      "button_text": "Try for Free",
+      "items": [
+        "Efficient Content Generation: Create posts in minutes, not hours.",
+        "Trend-Responsive: Stay relevant with AI-analyzed trending topics.",
+        "Customizable Designs: Use our templates and make them your own."
+      ]
+    }
+  ],
+  "page_1_4": [
+    {
+      "type": "text",
+      "heading": "Effortless AI-Assisted Content Creation",
+      "subtext": "Leverage cutting-edge machine learning to seamlessly generate captivating social media content tailored to your audience's interests. Input themes or keywords and let the AI do the rest—producing an array of text and visual assets."
+    },
+    {
+      "type": "text",
+      "heading": "Stay Relevant with Smart Trend Analysis",
+      "subtext": "Harness advanced algorithms to analyze trending topics and audience preferences, ensuring your content strategy is always in sync with the latest social media movements. Make informed decisions with real-time data insights."
+    },
+    {
+      "type": "card_grid",
+      "heading": "Design Made Simple with Customizable Templates",
+      "subtext": "Explore our extensive library of design templates that can be customized to suit your brand's style. Save time on design and coding with easy drag-and-drop functionality.",
+      "button_text": "Explore Templates",
+      "items": [
+        "Modern Minimalist Designs",
+        "Vibrant Visual Themes",
+        "Professional Corporate Styles"
+      ]
+    }
+  ],
+  "page_1_5": [
+    {
+      "type": "list",
+      "heading": "Explore Our Design Template Categories",
+      "subtext": "Browse through our diverse range of template categories to find the perfect match for your brand. Each template is fully customizable and tailored to suit different social media platforms, ensuring your content looks professional and engaging.",
+      "button_text": "View More Categories",
+      "items": [
+        "Social Media Posts",
+        "Email Newsletters",
+        "Facebook Ads"
+      ]
+    }
+  ],
+  "page_1_6": [
+    {
+      "type": "pricing",
+      "heading": "Simple and Transparent Pricing",
+      "subtext": "Choose the plan that best suits your needs and scale your social media presence effortlessly.",
+      "items": [
+        "Starter Plan: Perfect for individuals and small businesses starting their online journey",
+        "Professional Plan: For businesses looking to expand their reach and impact",
+        "Enterprise Plan: Tailored solutions for large organizations with advanced requirements"
+      ]
+    }
+  ],
+  "page_1_7": [
+    {
+      "type": "list",
+      "heading": "Frequently Asked Questions",
+      "subtext": "Find answers to common questions about our AI-Driven Content Creation Assistant. For any additional inquiries or support requests, please refer to our contact form below.",
+      "items": [
+        "How does the AI analyze trending topics for content creation?",
+        "Is the content generated unique and what kind of control do I have over it?",
+        "Can I customize the design templates provided by the platform?"
+      ]
+    },
+    {
+      "type": "form",
+      "heading": "Need Further Assistance?",
+      "subtext": "Still have questions? Our support team is here to help. Fill out the contact form below, and we will get back to you as soon as possible.",
+      "button_text": "Submit Request",
+      "fields": [
+        "Name",
+        "Email Address",
+        "Subject",
+        "Message"
+      ]
+    }
+  ],
+  "page_1_8": [
+    {
+      "type": "text",
+      "heading": "Welcome Back, [User Name]!",
+      "subtext": "Here's a snapshot of your recent activities and account performance. Stay on top of your content creation game with up-to-date insights."
+    },
+    {
+      "type": "card_grid",
+      "heading": "Generate Your Next Post",
+      "subtext": "Leverage AI to create compelling content. Choose from a variety of options tailored to your brand and audience.",
+      "button_text": "Create Content",
+      "items": [
+        "Instagram Post - Summer Sale",
+        "Blog Article - New Product Launch",
+        "Facebook Ad - Exclusive Offers"
+      ]
+    },
+    {
+      "type": "calendar",
+      "heading": "Plan Your Content",
+      "subtext": "Manage your posting schedule efficiently. Ensure your audience stays engaged with consistent updates.",
+      "button_text": "Add New Event"
+    },
+    {
+      "type": "cta",
+      "heading": "Browse Content Templates",
+      "subtext": "Discover a plethora of design templates catered to your needs. Customize them effortlessly to match your brand's voice.",
+      "button_text": "Explore Now"
+    },
+    {
+      "type": "stats",
+      "heading": "Your Content Performance",
+      "subtext": "Get real-time analytics on your posts, including engagement rates and audience reach."
+    }
+  ],
+  "page_1_8_1": [
+    {
+      "type": "text"
+    }
+  ]
+}
