@@ -1,24 +1,51 @@
 {
   "page_1": [
     {
-      "type": "hero"
+      "type": "hero",
+      "heading": "Hero",
+      "subtext": "Main headline, introductory text, and signup/login CTA"
     },
     {
-      "type": "card_grid"
+      "type": "card_grid",
+      "heading": "Features",
+      "subtext": "Overview of app capabilities and benefits"
     },
     {
-      "type": "testimonials"
+      "type": "testimonials",
+      "heading": "Testimonials",
+      "subtext": "User success stories and reviews"
     },
     {
-      "type": "cta"
+      "type": "cta",
+      "heading": "Call to Action",
+      "subtext": "Prompt to start using the app",
+      "interactions": [
+        {
+          "trigger": "click",
+          "action": "show_confirmation",
+          "message": "Thanks! We'll be in touch."
+        }
+      ]
     }
   ],
   "page_1_1": [
     {
-      "type": "form"
+      "type": "form",
+      "heading": "Login Form",
+      "subtext": "Fields for entering username and password",
+      "interactions": [
+        {
+          "trigger": "submit",
+          "action": "show_confirmation",
+          "message": "Submitted successfully!",
+          "clear_form": true
+        }
+      ]
     },
     {
-      "type": "text"
+      "type": "text",
+      "heading": "Forgot Password",
+      "subtext": "Link and process to recover password"
     }
   ],
   "page_1_2": [
@@ -33,6 +60,14 @@
         "Email Address",
         "Password",
         "Confirm Password"
+      ],
+      "interactions": [
+        {
+          "trigger": "submit",
+          "action": "show_confirmation",
+          "message": "Submitted successfully!",
+          "clear_form": true
+        }
       ]
     }
   ],
@@ -44,6 +79,8 @@
     },
     {
       "type": "list",
+      "heading": "Step-by-Step Guide",
+      "subtext": "Instructions on how to use the app",
       "button_text": "Learn More",
       "items": [
         "Step 1: Sign Up and Set Your Preferences",
@@ -58,6 +95,8 @@
     },
     {
       "type": "card_grid",
+      "heading": "Benefits",
+      "subtext": "Advantages of using the app",
       "button_text": "Try for Free",
       "items": [
         "Efficient Content Generation: Create posts in minutes, not hours.",
@@ -111,6 +150,13 @@
         "Starter Plan: Perfect for individuals and small businesses starting their online journey",
         "Professional Plan: For businesses looking to expand their reach and impact",
         "Enterprise Plan: Tailored solutions for large organizations with advanced requirements"
+      ],
+      "interactions": [
+        {
+          "trigger": "click",
+          "action": "show_confirmation",
+          "message": "Great choice! In the live version, this would take you to checkout."
+        }
       ]
     }
   ],
@@ -135,6 +181,14 @@
         "Email Address",
         "Subject",
         "Message"
+      ],
+      "interactions": [
+        {
+          "trigger": "submit",
+          "action": "show_confirmation",
+          "message": "Submitted successfully!",
+          "clear_form": true
+        }
       ]
     }
   ],
@@ -165,7 +219,14 @@
       "type": "cta",
       "heading": "Browse Content Templates",
       "subtext": "Discover a plethora of design templates catered to your needs. Customize them effortlessly to match your brand's voice.",
-      "button_text": "Explore Now"
+      "button_text": "Explore Now",
+      "interactions": [
+        {
+          "trigger": "click",
+          "action": "show_confirmation",
+          "message": "Thanks! We'll be in touch."
+        }
+      ]
     },
     {
       "type": "stats",
@@ -175,7 +236,9 @@
   ],
   "page_1_8_1": [
     {
-      "type": "text"
+      "type": "text",
+      "heading": "Editor Tools",
+      "subtext": "Tools for editing content generated"
     }
   ]
 }
