@@ -26,6 +26,14 @@
           "message": "Thanks! We'll be in touch."
         }
       ]
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
+      ]
     }
   ],
   "page_1_1": [
@@ -46,6 +54,14 @@
       "type": "text",
       "heading": "Forgot Password",
       "subtext": "Link and process to recover password"
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
+      ]
     }
   ],
   "page_1_2": [
@@ -68,6 +84,14 @@
           "message": "Submitted successfully!",
           "clear_form": true
         }
+      ]
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
       ]
     }
   ],
@@ -103,6 +127,14 @@
         "Trend-Responsive: Stay relevant with AI-analyzed trending topics.",
         "Customizable Designs: Use our templates and make them your own."
       ]
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
+      ]
     }
   ],
   "page_1_4": [
@@ -126,6 +158,14 @@
         "Vibrant Visual Themes",
         "Professional Corporate Styles"
       ]
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
+      ]
     }
   ],
   "page_1_5": [
@@ -138,6 +178,14 @@
         "Social Media Posts",
         "Email Newsletters",
         "Facebook Ads"
+      ]
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
       ]
     }
   ],
@@ -157,6 +205,14 @@
           "action": "show_confirmation",
           "message": "Great choice! In the live version, this would take you to checkout."
         }
+      ]
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
       ]
     }
   ],
@@ -189,6 +245,14 @@
           "message": "Submitted successfully!",
           "clear_form": true
         }
+      ]
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
       ]
     }
   ],
@@ -232,6 +296,14 @@
       "type": "stats",
       "heading": "Your Content Performance",
       "subtext": "Get real-time analytics on your posts, including engagement rates and audience reach."
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
+      ]
     }
   ],
   "page_1_8_1": [
@@ -239,6 +311,14 @@
       "type": "text",
       "heading": "Editor Tools",
       "subtext": "Tools for editing content generated"
+    },
+    {
+      "type": "footer",
+      "heading": "ContentGenie AI",
+      "subtext": "© 2026 ContentGenie AI. All rights reserved.",
+      "items": [
+        "Home"
+      ]
     }
   ]
 }

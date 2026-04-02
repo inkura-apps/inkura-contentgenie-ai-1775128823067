@@ -8,7 +8,10 @@
     "text": "#f1f5f9",
     "text_muted": "#94a3b8",
     "surface": "#e2e8f0",
-    "border": "#334155"
+    "border": "#334155",
+    "text_on_surface": "#1e293b",
+    "text_muted_on_surface": "#64748b",
+    "text_on_accent": "#1e293b"
   },
   "fonts": {
     "heading": "Inter",
