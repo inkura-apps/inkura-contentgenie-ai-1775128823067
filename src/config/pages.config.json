@@ -8,7 +8,21 @@
       "interactions": [
         {
           "trigger": "click",
-          "action": "navigate"
+          "action": "show_modal",
+          "modal": {
+            "heading": "Get started — it's free",
+            "body": "Create your account to start generating content.",
+            "fields": [
+              {
+                "name": "email",
+                "label": "Email address",
+                "type": "email",
+                "required": true
+              }
+            ],
+            "submit_label": "Create Account",
+            "success_message": "Welcome! Check your email to get started."
+          }
         }
       ]
     },
@@ -90,7 +104,8 @@
     {
       "type": "text",
       "heading": "Forgot Password",
-      "subtext": "Link and process to recover password"
+      "subtext": "Link and process to recover password",
+      "button_text": "Learn More"
     },
     {
       "type": "footer",
@@ -136,7 +151,8 @@
     {
       "type": "text",
       "heading": "Start Creating in Three Easy Steps!",
-      "subtext": "Harness the power of AI to generate captivating content effortlessly. Here's how you can get started in no time."
+      "subtext": "Harness the power of AI to generate captivating content effortlessly. Here's how you can get started in no time.",
+      "button_text": "Learn More"
     },
     {
       "type": "list",
@@ -147,12 +163,19 @@
         "Step 1: Sign Up and Set Your Preferences",
         "Step 2: Select a Template or Theme",
         "Step 3: Generate and Customize Your Content"
+      ],
+      "interactions": [
+        {
+          "trigger": "click",
+          "action": "toggle"
+        }
       ]
     },
     {
       "type": "text",
       "heading": "Transform Your Social Media Strategy",
-      "subtext": "Discover how our tool can revolutionize your content creation process, saving you time and boosting engagement."
+      "subtext": "Discover how our tool can revolutionize your content creation process, saving you time and boosting engagement.",
+      "button_text": "Learn More"
     },
     {
       "type": "card_grid",
@@ -217,6 +240,12 @@
         "Social Media Posts",
         "Email Newsletters",
         "Facebook Ads"
+      ],
+      "interactions": [
+        {
+          "trigger": "click",
+          "action": "toggle"
+        }
       ]
     },
     {
@@ -265,6 +294,12 @@
         "How does the AI analyze trending topics for content creation?",
         "Is the content generated unique and what kind of control do I have over it?",
         "Can I customize the design templates provided by the platform?"
+      ],
+      "interactions": [
+        {
+          "trigger": "click",
+          "action": "toggle"
+        }
       ]
     },
     {
@@ -300,7 +335,8 @@
     {
       "type": "text",
       "heading": "Welcome Back, [User Name]!",
-      "subtext": "Here's a snapshot of your recent activities and account performance. Stay on top of your content creation game with up-to-date insights."
+      "subtext": "Here's a snapshot of your recent activities and account performance. Stay on top of your content creation game with up-to-date insights.",
+      "button_text": "Learn More"
     },
     {
       "type": "card_grid",
@@ -355,7 +391,8 @@
     {
       "type": "text",
       "heading": "Editor Tools",
-      "subtext": "Tools for editing content generated"
+      "subtext": "Tools for editing content generated",
+      "button_text": "Learn More"
     },
     {
       "type": "footer",
